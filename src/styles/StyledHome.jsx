@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 const StyledHome = styled.div`
+
   width: 100%;
   button {
     padding: 16px 32px;
@@ -18,6 +19,7 @@ const StyledHome = styled.div`
     }
   }
   margin-top: 50px;
+  
 `;
 
 export default StyledHome;

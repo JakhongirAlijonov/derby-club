@@ -1,7 +1,7 @@
 
 function ModalSelecteds({selectedOption  }) {
   let  totalCost = 0;
-  props.totalCost(totalCost)
+
 
   return (
     <div>
