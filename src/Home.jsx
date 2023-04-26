@@ -24,6 +24,8 @@ const [newRoom , setNewRoom] = useState({})
             <h3>Xona raqami: {room.roomNumber}</h3>
             <p>Boshlanish vaqt: {hour}:{minute}</p>
             <p> Jami summa: {room.total}</p>
+            <button> Tugatish </button>
+            <button> Qo'shimcha qilish </button>
           </StyledCard>
         )
       })
