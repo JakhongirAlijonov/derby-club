@@ -1,6 +1,6 @@
 const  ModalItems =   ({handleSelectChange})=>{
     return (
-        <select name="" id="" onChange={handleSelectChange}>
+        <select name="" id="prod" onChange={handleSelectChange}>
           <option value="pepsi05" defaultChecked data-cost="5000">
             Pepesi 0.5 l
           </option>
